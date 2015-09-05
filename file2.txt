@@ -1,1 +1,1 @@
-This is for the branch test for merge conflict
+This is for the final conflict version
